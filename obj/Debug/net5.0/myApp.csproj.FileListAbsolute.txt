@@ -1,0 +1,15 @@
+/Users/kodamati/Desktop/AWS/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/kodamati/Desktop/AWS/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/kodamati/Desktop/AWS/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/kodamati/Desktop/AWS/myApp/bin/Debug/net5.0/myApp.dll
+/Users/kodamati/Desktop/AWS/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/kodamati/Desktop/AWS/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/kodamati/Desktop/AWS/myApp/obj/Debug/net5.0/myApp.csproj.AssemblyReference.cache
+/Users/kodamati/Desktop/AWS/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kodamati/Desktop/AWS/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/kodamati/Desktop/AWS/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/kodamati/Desktop/AWS/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/kodamati/Desktop/AWS/myApp/obj/Debug/net5.0/myApp.dll
+/Users/kodamati/Desktop/AWS/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/kodamati/Desktop/AWS/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/kodamati/Desktop/AWS/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
